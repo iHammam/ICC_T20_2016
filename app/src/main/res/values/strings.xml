@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">T20 WorldCup-2016</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">T20 WorldCup-2016</string>
+
+    <!-- Customized String -->
+    <string name="copyright">
+        copyright \u00a9 www.aalpha-lab.com 2016
+    </string>
+    <string name="title_activity_developers_info">DevelopersInfo</string>
+    <string name="title_activity_groups_info">GroupsInfo</string>
+    <string name="title_activity_t20_groups">Fixtures</string>
+    <string name="title_activity_live_scores">Live Scores</string>
+    <string name="title_activity_qualifying_group">QualifyingGroup</string>
+    <string name="title_activity_super_ten">SuperTen</string>
+    <string name="title_activity_knock_out">KnockOut</string>
+
+</resources>

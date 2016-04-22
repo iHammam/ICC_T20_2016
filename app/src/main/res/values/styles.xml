@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="AppTheme.Base">-->
+    <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--</style>-->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+    </style>
+
+    <style name="IHBCustomThemeTextColor" parent="AppTheme.Base">
+        <item name="android:textColorPrimary">#FFF</item>
+        <item name="android:textColorSecondary">#00AEEF</item>
+        <item name="android:actionMenuTextColor">#00AEEF</item>
+    </style>
+
+</resources>
